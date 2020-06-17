@@ -22,7 +22,7 @@ public class MethodTest
 	
 	public static void main(String[] args)
 	{/*
-		int a = add();
+		String a = add();
 		a = add();
 		System.out.println("123".length());  			 // length : 값을 넣으면 안됨
 		System.out.println("123".indexOf("1"));			 // indexOf : 한번에 한가지만
