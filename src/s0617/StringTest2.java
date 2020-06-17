@@ -20,6 +20,8 @@ public class StringTest2
 		int cnt = length(str);
 		System.out.println();
 		//
+		//
+		
 	}
 
 }
