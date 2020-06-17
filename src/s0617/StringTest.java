@@ -20,6 +20,7 @@ public class StringTest
 ////		System.out.println(str.lastIndexOf("2"));	
 ////		System.out.println(str.replace("23", "**"));
 //	}
+		
 
 	}
 }
