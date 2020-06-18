@@ -10,11 +10,11 @@ public class Test08
 
 		if (a > b)
 		{
-			System.out.println("a�� b���� Ů�ϴ�.");
+			System.out.println("모여");
 
 		} else
 		{
-			System.out.println("a�� b���� �۽��ϴ�.");
+			System.out.println("글자 어디갔어");
 		}
 	}
 }

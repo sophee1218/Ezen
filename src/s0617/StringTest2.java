@@ -19,8 +19,6 @@ public class StringTest2
 		String str = "123452";
 		int cnt = length(str);
 		System.out.println();
-		//
-		//
 		
 	}
 

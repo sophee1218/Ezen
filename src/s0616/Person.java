@@ -6,7 +6,7 @@ public class Person
 	String address;
 	int age;
 
-	void run()
+	void run(String name, int age)
 	{
 		System.out.println(name + "이 달립니다.");
 		if (age > 30)
@@ -24,9 +24,11 @@ public class Person
 
 		people[0] = new Person();
 
-		System.out.println(people[0].name);
-
 		Person p = new Person();
-		System.out.println(p.name);
+	
+		p.run("신송희",30);
+	
+		
+
 	}
 }
