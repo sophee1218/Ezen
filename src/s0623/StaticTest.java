@@ -14,5 +14,8 @@ public class StaticTest
 		StaticTest st2 = new StaticTest();
 		System.out.println(st2.num);
 		
+		
+		
+		
 	}
 }
