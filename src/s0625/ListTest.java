@@ -19,7 +19,7 @@ class Dog extends Animal
 	}
 }
 public class ListTest
-{
+ {
 
 	public static void main(String[] args)
 	{
